@@ -15,7 +15,6 @@ This project is designed to demonstrate the application of skills and knowledge 
 ```bash
 git clone https://github.com/Ab0ut47Pandas/CIDM4360.git
 ```
-```
 
 Once cloned, you can browse the files and directories to see the project components.
 
