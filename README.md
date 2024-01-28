@@ -2,9 +2,9 @@
 OBJ ORT/ANAL &amp; DES
 
 ```markdown
-# Project Name
+# Object-Oriented Analysis
 
-Welcome to the Project Name page! This site serves as a showcase for the work completed for the CIDM4360 course.
+This site serves as a showcase for the work completed for the CIDM4360 course.
 
 ## Introduction
 
