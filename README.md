@@ -26,8 +26,8 @@ Once cloned, you can browse the files and directories to see the project compone
 
 For detailed information on the project's structure and components, please refer to the [Documentation](/CHANGELOG.md) section.
 
-Thank you for visiting our project!
+Thank you for visiting my project!
 
 ---
 
-© [Nathan E], CIDM4360
+© Nathan E, CIDM4360
