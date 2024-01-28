@@ -25,7 +25,7 @@ Once cloned, you can browse the files and directories to see the project compone
 
 ## Documentation
 
-For detailed information on the project's structure and components, please refer to the [Documentation](/docs) section.
+For detailed information on the project's structure and components, please refer to the [Documentation](/CHANGELOG.md) section.
 
 Thank you for visiting our project!
 
